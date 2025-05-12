@@ -1,0 +1,34 @@
+train: /home/lucy/Desktop/brassai_projekt/merged/images/train
+val: /home/lucy/Desktop/brassai_projekt/merged/images/train
+
+
+
+nc: 27
+names:
+  - traktor #elég decens
+  - kabin
+  - utanfuto
+  - balazo
+  - vetogep
+  - permetezo
+  - bala
+  - markolo_kar
+  - krumpliszedo
+  - szemelyek
+  - foliazo
+  - eke
+  - szenagyujto
+  - tarcsa
+  - tartalypotkocsi
+  - krumplivetogep
+  - mutragyaszoro
+  - viztartaly # na meg ez is
+  - kapagep
+  - csomagolt_bala
+  - gumiabroncs
+  - kaszagep
+  - funyiro_traktor
+  - takarmany_kevero
+  - szarvasmarha #fasza ez is
+  - kombajn
+  - kombajn_asztal
