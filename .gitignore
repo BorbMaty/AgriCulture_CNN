@@ -3,3 +3,21 @@ __pycache__/
 *.log
 *.DS_Store
 *.pt
+
+# Ignore images
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# Ignore video
+*.mp4
+*.avi
+*.mov
+
+# Ignore YOLO annotations
+*.txt
+
+# Ignore COCO or Pascal VOC annotations
+*.json
+*.xml
