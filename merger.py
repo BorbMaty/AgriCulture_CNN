@@ -3,7 +3,7 @@ import shutil
 from glob import glob
 
 # Paths
-root_dir = '/home/lucy/Desktop/brassai projekt'
+root_dir = '/home/lucy/Desktop/brassai_projekt'
 output_images = os.path.join(root_dir, 'merged/images/train')
 output_labels = os.path.join(root_dir, 'merged/labels/train')
 
@@ -13,7 +13,7 @@ os.makedirs(output_labels, exist_ok=True)
 total_images = 0
 total_labels = 0
 
-for i in range(1, 13):
+for i in range(1, 22):
     dataset_path = os.path.join(root_dir, f'dataset{i}')
     image_dir = os.path.join(dataset_path, 'images')
     label_dir = os.path.join(dataset_path, 'labels')
