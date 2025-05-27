@@ -7,16 +7,16 @@ nc: 27
 names:
   - traktor #elég decens
   - kabin
-  - utanfuto
+  - utanfuto #megvan
   - balazo
   - vetogep
   - permetezo
-  - bala
-  - markolo_kar
+  - bala #megvan
+  - markolo_kar #megvan
   - krumpliszedo
-  - szemelyek
+  - szemelyek #megvan
   - foliazo
-  - eke
+  - eke 
   - szenagyujto
   - tarcsa
   - tartalypotkocsi
@@ -25,7 +25,7 @@ names:
   - viztartaly # na meg ez is
   - kapagep
   - csomagolt_bala
-  - gumiabroncs
+  - gumiabroncs #megvan
   - kaszagep
   - funyiro_traktor
   - takarmany_kevero
