@@ -79,7 +79,7 @@ names:
   - kaszagep
   - funyiro_traktor
   - takarmany_kevero
-  - szarvasmarha #fasza ez is
+  - szarvasmarha # ez is
   - kombajn
   - kombajn_asztal
 ```
